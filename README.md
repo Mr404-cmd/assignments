@@ -1,4 +1,4 @@
-# assifnments
+# assignments
 # Prequesties
 clone repo and fire command node install
 
